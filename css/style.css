@@ -1,0 +1,7 @@
+div{
+	background-color:red;
+	width:75px;
+	padding:15px;
+	border:1px solid black;
+	display:inline-block;
+}
